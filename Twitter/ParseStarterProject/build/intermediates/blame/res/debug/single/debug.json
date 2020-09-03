@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/build/intermediates/res/merged/debug/menu_tweet_menu.xml.flat",
+        "source": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/src/main/res/menu/tweet_menu.xml"
+    },
+    {
+        "merged": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/build/intermediates/res/merged/debug/drawable_twitter.png.flat",
+        "source": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/src/main/res/drawable/twitter.png"
+    },
+    {
+        "merged": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_users.xml.flat",
+        "source": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/src/main/res/layout/activity_users.xml"
+    },
+    {
+        "merged": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_feed.xml.flat",
+        "source": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/src/main/res/layout/activity_feed.xml"
+    },
+    {
+        "merged": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/imrankhan/AndroidStudioProjects/Twitter/ParseStarterProject/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

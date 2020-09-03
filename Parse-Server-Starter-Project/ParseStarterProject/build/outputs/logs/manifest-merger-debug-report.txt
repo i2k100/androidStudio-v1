@@ -1,0 +1,764 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:multidex:1.0.2] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d66085c88b6980a6d018153fd2022fe0/multidex-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/0e8846c1e204e79a65a49499cf5cacc7/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ff572a8fc0839e855aa311f960929fde/play-services-11.0.4/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4bb07298d57875f7479f1dacb4e6cb4f/play-services-cast-framework-11.0.4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5b044a7924b4a39338f7e36e4caf82de/play-services-cast-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d1dbfab29c370335c646322a1264aaa2/mediarouter-v7-25.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/02a0b5591867b269bf90099dda756d74/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/2da300299fb17ec7bd92f77369090c46/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d7d7cc8d8a1e53d9b9223fa437b4b029/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/13bc1a761203579f7cf673e5063a0578/play-services-ads-11.0.4/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fd1ea6b3731442cbcc27e78b68230d/play-services-ads-lite-11.0.4/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e13b78699e31319c22eb089c85d0ed29/play-services-analytics-11.0.4/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/50a0416616902c89d5d1f45e16206b64/play-services-tagmanager-11.0.4/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3a6aeda407bbad5ef1af3e02f71df16e/play-services-tagmanager-v4-impl-11.0.4/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/87d16ffbb0b6f48ba6ed8363e48bc3e5/play-services-analytics-impl-11.0.4/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d77347dcc7640cc1ec5bce368f4352be/play-services-auth-api-phone-11.0.4/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/19cb89b8ddf0148d31ba741a4654f04e/play-services-auth-11.0.4/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/156396036d015dad0bb480e68c13541b/play-services-auth-base-11.0.4/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5289a1a3b16e9ac2d7b5fc7ff22855a3/play-services-clearcut-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/589585ff5e76aa47deff05eab241e171/firebase-config-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fad0a6ebfa065dc280273c2bd31936/play-services-awareness-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/f6cd888033e462540cb61bcad05e98b6/play-services-games-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/dd2236016f038a3a1db4d721ac253d52/play-services-drive-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/13943a20648422e56142513b154f2397/firebase-auth-11.0.4/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/47f3aa92dd5a10882d9195d7bcff03cf/firebase-dynamic-links-11.0.4/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ccec5ad89d0c2d95528cfbf2dc810ebd/play-services-fitness-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4da7eb36d0101a901d40983e00080250/play-services-gcm-11.0.4/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/08cbb051009e58b8d4e981b6867dcc48/firebase-appindexing-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6c9ed3c7be56bc97f0b5e14447b0ffbb/play-services-wallet-11.0.4/AndroidManifest.xml:16:1-20:12
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d0d7f8bb4001ff7c80fc5eb30f0bf38d/play-services-identity-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/18980b3e8d4635f2eaac59a5ef354a68/play-services-iid-11.0.4/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/1ba42aac9c03e453a58d7f4a913052a5/play-services-instantapps-11.0.4/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/24c5b453d341c9a7053c285ec6f14c0e/play-services-location-11.0.4/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e40ae7a1a4c1e3d3bcf09631254320d6/play-services-places-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bab5f6e3a9c9a55462281c0e64b9aa18/play-services-maps-11.0.4/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/65331e9820675549e3e168d458c2072b/play-services-nearby-11.0.4/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/695d712d418ec2f84055d255148266e9/play-services-panorama-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/c6fbe585872078ec2927babbda8fb419/play-services-plus-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/811d08588c6d09dd210faf80cbf61375/play-services-safetynet-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ad46c2077bf9993eddaf0fc788332bf3/play-services-vision-11.0.4/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3f245eca2bc22a5b3277c97065294528/play-services-vision-common-11.0.4/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/08b77ca71cb70e5f2485df865880801f/play-services-wearable-11.0.4/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5a723a9bb64281709eeac19a05547188/play-services-base-11.0.4/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/574ce086e0d193157222c9e5583086f4/firebase-crash-11.0.4/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/25979f3b4905b78b7f5b719a609f7d96/firebase-database-11.0.4/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/0a71e1e81bc9a18a2a14a20c100e4e63/firebase-database-connection-11.0.4/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/11e3f54ab36d1e5b38162303d43295f4/firebase-messaging-11.0.4/AndroidManifest.xml:16:1-30:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:16:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:16:1-50:12
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/919dda7a086d5bdd3ed114bf8fdae250/firebase-storage-11.0.4/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/70e54297ce9b4d084026edf7c052114c/firebase-storage-common-11.0.4/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6faae005325548b3be12b5d4cba597b9/firebase-common-11.0.4/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7a4a72dd854fad5baf7fc69c1a6a23b2/play-services-gass-11.0.4/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/750a2f2f905eb136a023220b029cefbd/play-services-tasks-11.0.4/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/26c83379041a260c29e9a7f27b0e2aa9/play-services-basement-11.0.4/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e880da2ae6f5afb5116d24ba5623fef1/support-v4-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.parse:parse-android:1.17.3] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ee7325b13a278b03447462c0ecb4001d/parse-android-1.17.3/AndroidManifest.xml:10:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/a65c03b57a0caa425465ef6e2b642e63/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7c3616f46c233483189f28c6aecc1bf8/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/aa102c73461ceaead80426ed3767173f/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bc9e4441cb0d35d24fb33db1292b83cf/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/fa23cab4f79441aa9247f8e694f2101e/palette-v7-25.2.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6dd5acce2e1c39457e97c6a540b902b4/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/c6f6f11813f3ec2da92459396215a744/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/917b7676e26c87b7f9def2cd906778de/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/0d332eb486d43f6291b6bdda6995274f/support-media-compat-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7812a08fd4bf4624084090ee58b6a21c/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/237db0b5c3adb38854df6d16d881ad02/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/9a6b712a80d4975cb5a9b309b527e950/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/babc3655dda648c8281c5389c3b34623/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/16708a4b23eb1f0a10054ff774dd4c6b/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/a885ef9aa38df6be665a3ee44c1024dd/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/82ef1f2eb418706c0dc6e994f07498d6/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7d223bdf7b3559590bff916d5265ef74/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/33c175469499d369484821985d0455bd/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/2946dbff920a3086769a6d1e9c34cc83/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/f4f4effee3b19ca333d784babd2ded97/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/9d2defd0a735151083850e3e03cf1f99/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/8dbf37106270662bcf8910d884c3388d/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/f9b4407e2d6f9e6d73e2e41e2d02eb35/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/beda9f3c18d073b7eea7ef46b9ad839a/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d7fd0a6b82dbac033f938c982be39bd3/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/92e18467eefd23a76627e1fe83bf1e05/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7f446c61d119859cc910274a8162160c/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/8ce8513e0c0ed0e577ea55f824679bf4/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fd1ea6b3731442cbcc27e78b68230d/play-services-ads-lite-11.0.4/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fd1ea6b3731442cbcc27e78b68230d/play-services-ads-lite-11.0.4/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e13b78699e31319c22eb089c85d0ed29/play-services-analytics-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e13b78699e31319c22eb089c85d0ed29/play-services-analytics-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/87d16ffbb0b6f48ba6ed8363e48bc3e5/play-services-analytics-impl-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/87d16ffbb0b6f48ba6ed8363e48bc3e5/play-services-analytics-impl-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4da7eb36d0101a901d40983e00080250/play-services-gcm-11.0.4/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4da7eb36d0101a901d40983e00080250/play-services-gcm-11.0.4/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/18980b3e8d4635f2eaac59a5ef354a68/play-services-iid-11.0.4/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/18980b3e8d4635f2eaac59a5ef354a68/play-services-iid-11.0.4/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bab5f6e3a9c9a55462281c0e64b9aa18/play-services-maps-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bab5f6e3a9c9a55462281c0e64b9aa18/play-services-maps-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/574ce086e0d193157222c9e5583086f4/firebase-crash-11.0.4/AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/574ce086e0d193157222c9e5583086f4/firebase-crash-11.0.4/AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:20:5-66
+MERGED from [com.parse:parse-android:1.17.3] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ee7325b13a278b03447462c0ecb4001d/parse-android-1.17.3/AndroidManifest.xml:19:5-67
+MERGED from [com.parse:parse-android:1.17.3] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ee7325b13a278b03447462c0ecb4001d/parse-android-1.17.3/AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fd1ea6b3731442cbcc27e78b68230d/play-services-ads-lite-11.0.4/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fd1ea6b3731442cbcc27e78b68230d/play-services-ads-lite-11.0.4/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e13b78699e31319c22eb089c85d0ed29/play-services-analytics-11.0.4/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e13b78699e31319c22eb089c85d0ed29/play-services-analytics-11.0.4/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/87d16ffbb0b6f48ba6ed8363e48bc3e5/play-services-analytics-impl-11.0.4/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/87d16ffbb0b6f48ba6ed8363e48bc3e5/play-services-analytics-impl-11.0.4/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bab5f6e3a9c9a55462281c0e64b9aa18/play-services-maps-11.0.4/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bab5f6e3a9c9a55462281c0e64b9aa18/play-services-maps-11.0.4/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/65331e9820675549e3e168d458c2072b/play-services-nearby-11.0.4/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/65331e9820675549e3e168d458c2072b/play-services-nearby-11.0.4/AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:19:5-78
+MERGED from [com.parse:parse-android:1.17.3] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ee7325b13a278b03447462c0ecb4001d/parse-android-1.17.3/AndroidManifest.xml:20:5-79
+MERGED from [com.parse:parse-android:1.17.3] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ee7325b13a278b03447462c0ecb4001d/parse-android-1.17.3/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:8:22-76
+application
+ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:5-27:19
+MERGED from [com.android.support:design:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/0e8846c1e204e79a65a49499cf5cacc7/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/0e8846c1e204e79a65a49499cf5cacc7/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ff572a8fc0839e855aa311f960929fde/play-services-11.0.4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ff572a8fc0839e855aa311f960929fde/play-services-11.0.4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4bb07298d57875f7479f1dacb4e6cb4f/play-services-cast-framework-11.0.4/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4bb07298d57875f7479f1dacb4e6cb4f/play-services-cast-framework-11.0.4/AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5b044a7924b4a39338f7e36e4caf82de/play-services-cast-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5b044a7924b4a39338f7e36e4caf82de/play-services-cast-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d1dbfab29c370335c646322a1264aaa2/mediarouter-v7-25.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d1dbfab29c370335c646322a1264aaa2/mediarouter-v7-25.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fd1ea6b3731442cbcc27e78b68230d/play-services-ads-lite-11.0.4/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fd1ea6b3731442cbcc27e78b68230d/play-services-ads-lite-11.0.4/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e13b78699e31319c22eb089c85d0ed29/play-services-analytics-11.0.4/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e13b78699e31319c22eb089c85d0ed29/play-services-analytics-11.0.4/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3a6aeda407bbad5ef1af3e02f71df16e/play-services-tagmanager-v4-impl-11.0.4/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3a6aeda407bbad5ef1af3e02f71df16e/play-services-tagmanager-v4-impl-11.0.4/AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/87d16ffbb0b6f48ba6ed8363e48bc3e5/play-services-analytics-impl-11.0.4/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/87d16ffbb0b6f48ba6ed8363e48bc3e5/play-services-analytics-impl-11.0.4/AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/19cb89b8ddf0148d31ba741a4654f04e/play-services-auth-11.0.4/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/19cb89b8ddf0148d31ba741a4654f04e/play-services-auth-11.0.4/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5289a1a3b16e9ac2d7b5fc7ff22855a3/play-services-clearcut-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5289a1a3b16e9ac2d7b5fc7ff22855a3/play-services-clearcut-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/589585ff5e76aa47deff05eab241e171/firebase-config-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/589585ff5e76aa47deff05eab241e171/firebase-config-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fad0a6ebfa065dc280273c2bd31936/play-services-awareness-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fad0a6ebfa065dc280273c2bd31936/play-services-awareness-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/f6cd888033e462540cb61bcad05e98b6/play-services-games-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/f6cd888033e462540cb61bcad05e98b6/play-services-games-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/dd2236016f038a3a1db4d721ac253d52/play-services-drive-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/dd2236016f038a3a1db4d721ac253d52/play-services-drive-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/13943a20648422e56142513b154f2397/firebase-auth-11.0.4/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/13943a20648422e56142513b154f2397/firebase-auth-11.0.4/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/47f3aa92dd5a10882d9195d7bcff03cf/firebase-dynamic-links-11.0.4/AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/47f3aa92dd5a10882d9195d7bcff03cf/firebase-dynamic-links-11.0.4/AndroidManifest.xml:5:3-17
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ccec5ad89d0c2d95528cfbf2dc810ebd/play-services-fitness-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ccec5ad89d0c2d95528cfbf2dc810ebd/play-services-fitness-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4da7eb36d0101a901d40983e00080250/play-services-gcm-11.0.4/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4da7eb36d0101a901d40983e00080250/play-services-gcm-11.0.4/AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/08cbb051009e58b8d4e981b6867dcc48/firebase-appindexing-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/08cbb051009e58b8d4e981b6867dcc48/firebase-appindexing-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d0d7f8bb4001ff7c80fc5eb30f0bf38d/play-services-identity-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d0d7f8bb4001ff7c80fc5eb30f0bf38d/play-services-identity-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/18980b3e8d4635f2eaac59a5ef354a68/play-services-iid-11.0.4/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/18980b3e8d4635f2eaac59a5ef354a68/play-services-iid-11.0.4/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/24c5b453d341c9a7053c285ec6f14c0e/play-services-location-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/24c5b453d341c9a7053c285ec6f14c0e/play-services-location-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e40ae7a1a4c1e3d3bcf09631254320d6/play-services-places-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e40ae7a1a4c1e3d3bcf09631254320d6/play-services-places-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bab5f6e3a9c9a55462281c0e64b9aa18/play-services-maps-11.0.4/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bab5f6e3a9c9a55462281c0e64b9aa18/play-services-maps-11.0.4/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/65331e9820675549e3e168d458c2072b/play-services-nearby-11.0.4/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/65331e9820675549e3e168d458c2072b/play-services-nearby-11.0.4/AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/695d712d418ec2f84055d255148266e9/play-services-panorama-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/695d712d418ec2f84055d255148266e9/play-services-panorama-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/c6fbe585872078ec2927babbda8fb419/play-services-plus-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/c6fbe585872078ec2927babbda8fb419/play-services-plus-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/811d08588c6d09dd210faf80cbf61375/play-services-safetynet-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/811d08588c6d09dd210faf80cbf61375/play-services-safetynet-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ad46c2077bf9993eddaf0fc788332bf3/play-services-vision-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ad46c2077bf9993eddaf0fc788332bf3/play-services-vision-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3f245eca2bc22a5b3277c97065294528/play-services-vision-common-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3f245eca2bc22a5b3277c97065294528/play-services-vision-common-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/08b77ca71cb70e5f2485df865880801f/play-services-wearable-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/08b77ca71cb70e5f2485df865880801f/play-services-wearable-11.0.4/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5a723a9bb64281709eeac19a05547188/play-services-base-11.0.4/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5a723a9bb64281709eeac19a05547188/play-services-base-11.0.4/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/574ce086e0d193157222c9e5583086f4/firebase-crash-11.0.4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/574ce086e0d193157222c9e5583086f4/firebase-crash-11.0.4/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/11e3f54ab36d1e5b38162303d43295f4/firebase-messaging-11.0.4/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/11e3f54ab36d1e5b38162303d43295f4/firebase-messaging-11.0.4/AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6faae005325548b3be12b5d4cba597b9/firebase-common-11.0.4/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6faae005325548b3be12b5d4cba597b9/firebase-common-11.0.4/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7a4a72dd854fad5baf7fc69c1a6a23b2/play-services-gass-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7a4a72dd854fad5baf7fc69c1a6a23b2/play-services-gass-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/750a2f2f905eb136a023220b029cefbd/play-services-tasks-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/750a2f2f905eb136a023220b029cefbd/play-services-tasks-11.0.4/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/26c83379041a260c29e9a7f27b0e2aa9/play-services-basement-11.0.4/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/26c83379041a260c29e9a7f27b0e2aa9/play-services-basement-11.0.4/AndroidManifest.xml:19:5-21:19
+MERGED from [com.parse:parse-android:1.17.3] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ee7325b13a278b03447462c0ecb4001d/parse-android-1.17.3/AndroidManifest.xml:22:5-20
+MERGED from [com.parse:parse-android:1.17.3] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ee7325b13a278b03447462c0ecb4001d/parse-android-1.17.3/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/a65c03b57a0caa425465ef6e2b642e63/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/a65c03b57a0caa425465ef6e2b642e63/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/fa23cab4f79441aa9247f8e694f2101e/palette-v7-25.2.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/fa23cab4f79441aa9247f8e694f2101e/palette-v7-25.2.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/33c175469499d369484821985d0455bd/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/33c175469499d369484821985d0455bd/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:11:9-43
+activity#com.parse.starter.UserFeedActivity
+ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:9-63
+	android:name
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:19-51
+activity#com.parse.starter.UserListActivity
+ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:9-54
+	android:name
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:19-51
+activity#com.parse.starter.MainActivity
+ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.2] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d66085c88b6980a6d018153fd2022fe0/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d66085c88b6980a6d018153fd2022fe0/multidex-1.0.2/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/0e8846c1e204e79a65a49499cf5cacc7/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/0e8846c1e204e79a65a49499cf5cacc7/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ff572a8fc0839e855aa311f960929fde/play-services-11.0.4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ff572a8fc0839e855aa311f960929fde/play-services-11.0.4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4bb07298d57875f7479f1dacb4e6cb4f/play-services-cast-framework-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4bb07298d57875f7479f1dacb4e6cb4f/play-services-cast-framework-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5b044a7924b4a39338f7e36e4caf82de/play-services-cast-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5b044a7924b4a39338f7e36e4caf82de/play-services-cast-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d1dbfab29c370335c646322a1264aaa2/mediarouter-v7-25.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d1dbfab29c370335c646322a1264aaa2/mediarouter-v7-25.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/02a0b5591867b269bf90099dda756d74/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/02a0b5591867b269bf90099dda756d74/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/2da300299fb17ec7bd92f77369090c46/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/2da300299fb17ec7bd92f77369090c46/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d7d7cc8d8a1e53d9b9223fa437b4b029/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d7d7cc8d8a1e53d9b9223fa437b4b029/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/13bc1a761203579f7cf673e5063a0578/play-services-ads-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/13bc1a761203579f7cf673e5063a0578/play-services-ads-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fd1ea6b3731442cbcc27e78b68230d/play-services-ads-lite-11.0.4/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fd1ea6b3731442cbcc27e78b68230d/play-services-ads-lite-11.0.4/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e13b78699e31319c22eb089c85d0ed29/play-services-analytics-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e13b78699e31319c22eb089c85d0ed29/play-services-analytics-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/50a0416616902c89d5d1f45e16206b64/play-services-tagmanager-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/50a0416616902c89d5d1f45e16206b64/play-services-tagmanager-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3a6aeda407bbad5ef1af3e02f71df16e/play-services-tagmanager-v4-impl-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3a6aeda407bbad5ef1af3e02f71df16e/play-services-tagmanager-v4-impl-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/87d16ffbb0b6f48ba6ed8363e48bc3e5/play-services-analytics-impl-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/87d16ffbb0b6f48ba6ed8363e48bc3e5/play-services-analytics-impl-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d77347dcc7640cc1ec5bce368f4352be/play-services-auth-api-phone-11.0.4/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d77347dcc7640cc1ec5bce368f4352be/play-services-auth-api-phone-11.0.4/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/19cb89b8ddf0148d31ba741a4654f04e/play-services-auth-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/19cb89b8ddf0148d31ba741a4654f04e/play-services-auth-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/156396036d015dad0bb480e68c13541b/play-services-auth-base-11.0.4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/156396036d015dad0bb480e68c13541b/play-services-auth-base-11.0.4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5289a1a3b16e9ac2d7b5fc7ff22855a3/play-services-clearcut-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5289a1a3b16e9ac2d7b5fc7ff22855a3/play-services-clearcut-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/589585ff5e76aa47deff05eab241e171/firebase-config-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/589585ff5e76aa47deff05eab241e171/firebase-config-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fad0a6ebfa065dc280273c2bd31936/play-services-awareness-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fad0a6ebfa065dc280273c2bd31936/play-services-awareness-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/f6cd888033e462540cb61bcad05e98b6/play-services-games-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/f6cd888033e462540cb61bcad05e98b6/play-services-games-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/dd2236016f038a3a1db4d721ac253d52/play-services-drive-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/dd2236016f038a3a1db4d721ac253d52/play-services-drive-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/13943a20648422e56142513b154f2397/firebase-auth-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/13943a20648422e56142513b154f2397/firebase-auth-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/47f3aa92dd5a10882d9195d7bcff03cf/firebase-dynamic-links-11.0.4/AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/47f3aa92dd5a10882d9195d7bcff03cf/firebase-dynamic-links-11.0.4/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ccec5ad89d0c2d95528cfbf2dc810ebd/play-services-fitness-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ccec5ad89d0c2d95528cfbf2dc810ebd/play-services-fitness-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4da7eb36d0101a901d40983e00080250/play-services-gcm-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4da7eb36d0101a901d40983e00080250/play-services-gcm-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/08cbb051009e58b8d4e981b6867dcc48/firebase-appindexing-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/08cbb051009e58b8d4e981b6867dcc48/firebase-appindexing-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6c9ed3c7be56bc97f0b5e14447b0ffbb/play-services-wallet-11.0.4/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6c9ed3c7be56bc97f0b5e14447b0ffbb/play-services-wallet-11.0.4/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d0d7f8bb4001ff7c80fc5eb30f0bf38d/play-services-identity-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d0d7f8bb4001ff7c80fc5eb30f0bf38d/play-services-identity-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/18980b3e8d4635f2eaac59a5ef354a68/play-services-iid-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/18980b3e8d4635f2eaac59a5ef354a68/play-services-iid-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/1ba42aac9c03e453a58d7f4a913052a5/play-services-instantapps-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/1ba42aac9c03e453a58d7f4a913052a5/play-services-instantapps-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/24c5b453d341c9a7053c285ec6f14c0e/play-services-location-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/24c5b453d341c9a7053c285ec6f14c0e/play-services-location-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e40ae7a1a4c1e3d3bcf09631254320d6/play-services-places-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e40ae7a1a4c1e3d3bcf09631254320d6/play-services-places-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bab5f6e3a9c9a55462281c0e64b9aa18/play-services-maps-11.0.4/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bab5f6e3a9c9a55462281c0e64b9aa18/play-services-maps-11.0.4/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/65331e9820675549e3e168d458c2072b/play-services-nearby-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/65331e9820675549e3e168d458c2072b/play-services-nearby-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/695d712d418ec2f84055d255148266e9/play-services-panorama-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/695d712d418ec2f84055d255148266e9/play-services-panorama-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/c6fbe585872078ec2927babbda8fb419/play-services-plus-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/c6fbe585872078ec2927babbda8fb419/play-services-plus-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/811d08588c6d09dd210faf80cbf61375/play-services-safetynet-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/811d08588c6d09dd210faf80cbf61375/play-services-safetynet-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ad46c2077bf9993eddaf0fc788332bf3/play-services-vision-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ad46c2077bf9993eddaf0fc788332bf3/play-services-vision-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3f245eca2bc22a5b3277c97065294528/play-services-vision-common-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3f245eca2bc22a5b3277c97065294528/play-services-vision-common-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/08b77ca71cb70e5f2485df865880801f/play-services-wearable-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/08b77ca71cb70e5f2485df865880801f/play-services-wearable-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5a723a9bb64281709eeac19a05547188/play-services-base-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5a723a9bb64281709eeac19a05547188/play-services-base-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/574ce086e0d193157222c9e5583086f4/firebase-crash-11.0.4/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/574ce086e0d193157222c9e5583086f4/firebase-crash-11.0.4/AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/25979f3b4905b78b7f5b719a609f7d96/firebase-database-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/25979f3b4905b78b7f5b719a609f7d96/firebase-database-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/0a71e1e81bc9a18a2a14a20c100e4e63/firebase-database-connection-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/0a71e1e81bc9a18a2a14a20c100e4e63/firebase-database-connection-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/11e3f54ab36d1e5b38162303d43295f4/firebase-messaging-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/11e3f54ab36d1e5b38162303d43295f4/firebase-messaging-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/919dda7a086d5bdd3ed114bf8fdae250/firebase-storage-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/919dda7a086d5bdd3ed114bf8fdae250/firebase-storage-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/70e54297ce9b4d084026edf7c052114c/firebase-storage-common-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/70e54297ce9b4d084026edf7c052114c/firebase-storage-common-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6faae005325548b3be12b5d4cba597b9/firebase-common-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6faae005325548b3be12b5d4cba597b9/firebase-common-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7a4a72dd854fad5baf7fc69c1a6a23b2/play-services-gass-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7a4a72dd854fad5baf7fc69c1a6a23b2/play-services-gass-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/750a2f2f905eb136a023220b029cefbd/play-services-tasks-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/750a2f2f905eb136a023220b029cefbd/play-services-tasks-11.0.4/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/26c83379041a260c29e9a7f27b0e2aa9/play-services-basement-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/26c83379041a260c29e9a7f27b0e2aa9/play-services-basement-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e880da2ae6f5afb5116d24ba5623fef1/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e880da2ae6f5afb5116d24ba5623fef1/support-v4-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.parse:parse-android:1.17.3] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ee7325b13a278b03447462c0ecb4001d/parse-android-1.17.3/AndroidManifest.xml:15:5-17:41
+MERGED from [com.parse:parse-android:1.17.3] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/ee7325b13a278b03447462c0ecb4001d/parse-android-1.17.3/AndroidManifest.xml:15:5-17:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/a65c03b57a0caa425465ef6e2b642e63/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/a65c03b57a0caa425465ef6e2b642e63/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7c3616f46c233483189f28c6aecc1bf8/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7c3616f46c233483189f28c6aecc1bf8/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/aa102c73461ceaead80426ed3767173f/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/aa102c73461ceaead80426ed3767173f/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bc9e4441cb0d35d24fb33db1292b83cf/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bc9e4441cb0d35d24fb33db1292b83cf/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/fa23cab4f79441aa9247f8e694f2101e/palette-v7-25.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/fa23cab4f79441aa9247f8e694f2101e/palette-v7-25.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6dd5acce2e1c39457e97c6a540b902b4/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6dd5acce2e1c39457e97c6a540b902b4/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/c6f6f11813f3ec2da92459396215a744/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/c6f6f11813f3ec2da92459396215a744/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/917b7676e26c87b7f9def2cd906778de/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/917b7676e26c87b7f9def2cd906778de/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/0d332eb486d43f6291b6bdda6995274f/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/0d332eb486d43f6291b6bdda6995274f/support-media-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7812a08fd4bf4624084090ee58b6a21c/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7812a08fd4bf4624084090ee58b6a21c/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/237db0b5c3adb38854df6d16d881ad02/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/237db0b5c3adb38854df6d16d881ad02/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/9a6b712a80d4975cb5a9b309b527e950/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/9a6b712a80d4975cb5a9b309b527e950/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/babc3655dda648c8281c5389c3b34623/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/babc3655dda648c8281c5389c3b34623/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/16708a4b23eb1f0a10054ff774dd4c6b/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/16708a4b23eb1f0a10054ff774dd4c6b/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/a885ef9aa38df6be665a3ee44c1024dd/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/a885ef9aa38df6be665a3ee44c1024dd/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/82ef1f2eb418706c0dc6e994f07498d6/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/82ef1f2eb418706c0dc6e994f07498d6/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7d223bdf7b3559590bff916d5265ef74/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7d223bdf7b3559590bff916d5265ef74/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/00567bd0de14b33d1bf8a440dc72bff8/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/33c175469499d369484821985d0455bd/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/33c175469499d369484821985d0455bd/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/2946dbff920a3086769a6d1e9c34cc83/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/2946dbff920a3086769a6d1e9c34cc83/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/f4f4effee3b19ca333d784babd2ded97/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/f4f4effee3b19ca333d784babd2ded97/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/9d2defd0a735151083850e3e03cf1f99/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/9d2defd0a735151083850e3e03cf1f99/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/8dbf37106270662bcf8910d884c3388d/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/8dbf37106270662bcf8910d884c3388d/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/f9b4407e2d6f9e6d73e2e41e2d02eb35/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/f9b4407e2d6f9e6d73e2e41e2d02eb35/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/beda9f3c18d073b7eea7ef46b9ad839a/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/beda9f3c18d073b7eea7ef46b9ad839a/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d7fd0a6b82dbac033f938c982be39bd3/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d7fd0a6b82dbac033f938c982be39bd3/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/92e18467eefd23a76627e1fe83bf1e05/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/92e18467eefd23a76627e1fe83bf1e05/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7f446c61d119859cc910274a8162160c/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/7f446c61d119859cc910274a8162160c/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/8ce8513e0c0ed0e577ea55f824679bf4/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/8ce8513e0c0ed0e577ea55f824679bf4/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		ADDED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+		INJECTED from /Users/imrankhan/AndroidStudioProjects/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4bb07298d57875f7479f1dacb4e6cb4f/play-services-cast-framework-11.0.4/AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4bb07298d57875f7479f1dacb4e6cb4f/play-services-cast-framework-11.0.4/AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4bb07298d57875f7479f1dacb4e6cb4f/play-services-cast-framework-11.0.4/AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4bb07298d57875f7479f1dacb4e6cb4f/play-services-cast-framework-11.0.4/AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4bb07298d57875f7479f1dacb4e6cb4f/play-services-cast-framework-11.0.4/AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4bb07298d57875f7479f1dacb4e6cb4f/play-services-cast-framework-11.0.4/AndroidManifest.xml:7:18-90
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fd1ea6b3731442cbcc27e78b68230d/play-services-ads-lite-11.0.4/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fd1ea6b3731442cbcc27e78b68230d/play-services-ads-lite-11.0.4/AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fd1ea6b3731442cbcc27e78b68230d/play-services-ads-lite-11.0.4/AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/12fd1ea6b3731442cbcc27e78b68230d/play-services-ads-lite-11.0.4/AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e13b78699e31319c22eb089c85d0ed29/play-services-analytics-11.0.4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/87d16ffbb0b6f48ba6ed8363e48bc3e5/play-services-analytics-impl-11.0.4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/87d16ffbb0b6f48ba6ed8363e48bc3e5/play-services-analytics-impl-11.0.4/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/e13b78699e31319c22eb089c85d0ed29/play-services-analytics-11.0.4/AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:20:19-50
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/3d0241fa83fcea4a2fa38d6c1e9b8fae/play-services-appinvite-11.0.4/AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/19cb89b8ddf0148d31ba741a4654f04e/play-services-auth-11.0.4/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/19cb89b8ddf0148d31ba741a4654f04e/play-services-auth-11.0.4/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/19cb89b8ddf0148d31ba741a4654f04e/play-services-auth-11.0.4/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/19cb89b8ddf0148d31ba741a4654f04e/play-services-auth-11.0.4/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/19cb89b8ddf0148d31ba741a4654f04e/play-services-auth-11.0.4/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/19cb89b8ddf0148d31ba741a4654f04e/play-services-auth-11.0.4/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/19cb89b8ddf0148d31ba741a4654f04e/play-services-auth-11.0.4/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/19cb89b8ddf0148d31ba741a4654f04e/play-services-auth-11.0.4/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/19cb89b8ddf0148d31ba741a4654f04e/play-services-auth-11.0.4/AndroidManifest.xml:24:18-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4da7eb36d0101a901d40983e00080250/play-services-gcm-11.0.4/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/18980b3e8d4635f2eaac59a5ef354a68/play-services-iid-11.0.4/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/18980b3e8d4635f2eaac59a5ef354a68/play-services-iid-11.0.4/AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:22:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/4da7eb36d0101a901d40983e00080250/play-services-gcm-11.0.4/AndroidManifest.xml:20:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bab5f6e3a9c9a55462281c0e64b9aa18/play-services-maps-11.0.4/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bab5f6e3a9c9a55462281c0e64b9aa18/play-services-maps-11.0.4/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/bab5f6e3a9c9a55462281c0e64b9aa18/play-services-maps-11.0.4/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5a723a9bb64281709eeac19a05547188/play-services-base-11.0.4/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5a723a9bb64281709eeac19a05547188/play-services-base-11.0.4/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5a723a9bb64281709eeac19a05547188/play-services-base-11.0.4/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/5a723a9bb64281709eeac19a05547188/play-services-base-11.0.4/AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/11e3f54ab36d1e5b38162303d43295f4/firebase-messaging-11.0.4/AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/11e3f54ab36d1e5b38162303d43295f4/firebase-messaging-11.0.4/AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/11e3f54ab36d1e5b38162303d43295f4/firebase-messaging-11.0.4/AndroidManifest.xml:23:18-87
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/11e3f54ab36d1e5b38162303d43295f4/firebase-messaging-11.0.4/AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/11e3f54ab36d1e5b38162303d43295f4/firebase-messaging-11.0.4/AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/11e3f54ab36d1e5b38162303d43295f4/firebase-messaging-11.0.4/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/11e3f54ab36d1e5b38162303d43295f4/firebase-messaging-11.0.4/AndroidManifest.xml:25:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:25:9-32:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:25:118-142
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:25:94-117
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:25:19-93
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:26:13-31:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.parse.starter
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/410bd301a0b996b56271436309ad60f4/play-services-tagmanager-api-11.0.4/AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/011edd8f0d4f777d5012a00904d2da2a/firebase-analytics-impl-11.0.4/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6f607b6fc6cd7f70e36ccddec3267c2a/firebase-analytics-11.0.4/AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:24:17-71
+permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:26:22-76
+uses-permission#com.parse.starter.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:30:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:31:13-34:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.parse.starter
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:33:27-58
+category#com.parse.starter
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:43:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/d065ec04255aa3ef494312009655f8d8/firebase-iid-11.0.4/AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6faae005325548b3be12b5d4cba597b9/firebase-common-11.0.4/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6faae005325548b3be12b5d4cba597b9/firebase-common-11.0.4/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6faae005325548b3be12b5d4cba597b9/firebase-common-11.0.4/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6faae005325548b3be12b5d4cba597b9/firebase-common-11.0.4/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/6faae005325548b3be12b5d4cba597b9/firebase-common-11.0.4/AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/26c83379041a260c29e9a7f27b0e2aa9/play-services-basement-11.0.4/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/26c83379041a260c29e9a7f27b0e2aa9/play-services-basement-11.0.4/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/imrankhan/.gradle/caches/transforms-2/files-2.1/26c83379041a260c29e9a7f27b0e2aa9/play-services-basement-11.0.4/AndroidManifest.xml:20:20-65

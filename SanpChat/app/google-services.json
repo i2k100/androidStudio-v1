@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613932296053",
+    "firebase_url": "https://snapchatoreo-f300f.firebaseio.com",
+    "project_id": "snapchatoreo-f300f",
+    "storage_bucket": "snapchatoreo-f300f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613932296053:android:186cf6699ef7b60504953c",
+        "android_client_info": {
+          "package_name": "com.myappcompany.imran.sanpchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613932296053-fk3mrb2pnl9cd6s98j9ghg3eceeo150c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8mj7pdJltZB4JoJ7OMcMkZXdFN9XKLTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613932296053-fk3mrb2pnl9cd6s98j9ghg3eceeo150c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
